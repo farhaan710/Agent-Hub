@@ -91,7 +91,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Project Link: [https://github.com/farhaan710/Agent-Hub](https://github.com/farhaan710/Agent-Hub)
 
-*Created with ❤️ and StackBlitz ⚡️*
-
-**If you provide more details about the actual features or tech stack, I can make this README even more specific and helpful!**
 
