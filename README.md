@@ -1,8 +1,4 @@
 
-# create the readme
-
-Absolutely! Here’s a professional, well-structured README for the [Agent-Hub](https://github.com/farhaan710/Agent-Hub) project, assuming it is a web-based platform for managing or integrating AI agents (common with “Agent Hub” projects). If you have more specific details or features, let me know and I’ll tailor it further.
-
 # Agent-Hub
 
 Agent-Hub is a modular platform designed to help you manage, deploy, and interact with multiple AI agents from a single interface. Built for developers, researchers, and businesses, Agent-Hub streamlines the process of integrating, testing, and scaling intelligent agents.
@@ -14,11 +10,6 @@ Agent-Hub is a modular platform designed to help you manage, deploy, and interac
 - 🖥️ **User-Friendly Dashboard**: Intuitive UI for managing agents and viewing logs.
 - 🧩 **Extensible Architecture**: Easily add new agents or integrations.
 - 📊 **Analytics**: Track agent performance and usage statistics.
-
-
-## Demo
-
-[Live Demo](#) <!-- Replace with actual link if available -->
 
 ## Getting Started
 
